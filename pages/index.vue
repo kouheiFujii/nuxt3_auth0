@@ -10,5 +10,8 @@
     <div>
       <NuxtLink to="/articles-nuxt/99">Articles</NuxtLink>
     </div>
+    <div>
+      <NuxtLink to="/api-test">API Test</NuxtLink>
+    </div>
   </div>
 </template>
