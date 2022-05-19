@@ -10,6 +10,7 @@
     "nuxt": "3.0.0-rc.3"
   },
   "dependencies": {
+    "@auth0/auth0-spa-js": "^1.21.1",
     "@types/node-rsa": "^1.1.1",
     "node-rsa": "^1.1.1"
   }

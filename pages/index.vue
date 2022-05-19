@@ -13,5 +13,8 @@
     <div>
       <NuxtLink to="/api-test">API Test</NuxtLink>
     </div>
+    <div>
+      <NuxtLink to="/login">Login</NuxtLink>
+    </div>
   </div>
 </template>
